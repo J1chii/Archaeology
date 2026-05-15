@@ -6,6 +6,7 @@ description,Description,,
 subject,Subjects,true,
 location,Location,true,
 source,Source,,
+link, Link,, true
 identifier,Source Identifier,,
 type,Type,true,
 format,Format,true,
