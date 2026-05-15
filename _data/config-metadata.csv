@@ -10,6 +10,7 @@ location,Location,true,
 source,Source,,
 identifier,Source Identifier,,
 type,Type,true,
+format,Format,true,
 language,Language,true,
 rights,Rights,,
 rightsstatement,Rights Statement,,true
