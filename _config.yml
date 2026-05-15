@@ -20,14 +20,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-GH 
+title: Lakbay Kasaysayan 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: Where the past still speaks.
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "Explore the rich cultural history of the Philippines by providing a digital experience of significant elements in building the identity of the Filipino, including historical ruins, long-standing items, and ongoing landmarks. Some examples of places you can experience are century-old churches, colonial fortresses, and institutions that house hidden or lost artefacts or relive forgotten experiences. The site captures the beauty of Filipino history and encourages people to reconnect with this history and how it relates to present-day experiences. Kaya ano na? Halika at maglakbay na tayo!"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Jairah Mejia
 
 ##########
 # COLLECTION SETTINGS
