@@ -1,6 +1,6 @@
 field,display_name,browse_link,external_link
-objectid,,
-filename,,
+objectid,
+filename,
 title,Title,,
 creator,Creator,true,
 date,Date Created,,
