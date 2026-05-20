@@ -62,3 +62,13 @@ h5,
 .timeline-item h3 {
   color: #8c6f42;
 }
+
+.music-player {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 9999;
+  background: rgba(255,255,255,0.9);
+  padding: 10px;
+  border-radius: 12px;
+}
