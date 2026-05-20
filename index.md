@@ -3,4 +3,8 @@ layout: home-infographic
 title: Home
 ---
 
-<script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+<button onclick="quote()" class="btn btn-warning">
+  Historical Quote
+</button>
+
+<p id="quoteText"></p>
