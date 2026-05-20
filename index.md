@@ -9,6 +9,10 @@ title: Home
   </audio>
 </div>
 
+# Welcome to Archaeology
+
+Exploring Philippine history and heritage.
+
 <button onclick="quote()" class="btn btn-warning">
   Historical Quote
 </button>
