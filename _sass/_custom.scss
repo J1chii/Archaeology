@@ -61,14 +61,12 @@ h5,
 
 body {
   background:
-    linear-gradient(rgba(245,241,234,0.78),
-    rgba(245,241,234,0.78)),
+    linear-gradient(rgba(245,241,234,0.25),
+    rgba(245,241,234,0.25)),
     url('/Archaeology/objects/background.jpeg');
 
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
   background-repeat: no-repeat;
-
-  color: #2b2b2b;
 }
