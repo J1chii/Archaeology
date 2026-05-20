@@ -26,3 +26,33 @@ The mission of ArchaeologyPH is to connect people to the stories of the past and
 
 Come discover the roots of the Philippines — one story, artifact, or historical treasure at a time.
 
+<section class="history-timeline">
+  <h2>Philippine History Timeline</h2>
+
+  <div class="timeline">
+    <div class="timeline-item">
+      <h3>Prehistoric Philippines</h3>
+      <p>Early humans, ancient tools, caves, and first communities.</p>
+    </div>
+
+    <div class="timeline-item">
+      <h3>Pre-colonial Period</h3>
+      <p>Barangays, trade, writing systems, and early Filipino societies.</p>
+    </div>
+
+    <div class="timeline-item">
+      <h3>Spanish Colonization</h3>
+      <p>Christianity, colonial rule, revolts, and cultural changes.</p>
+    </div>
+
+    <div class="timeline-item">
+      <h3>American Occupation</h3>
+      <p>Education reforms, government changes, and modernization.</p>
+    </div>
+
+    <div class="timeline-item">
+      <h3>Independence</h3>
+      <p>The Philippines became an independent republic.</p>
+    </div>
+  </div>
+</section>
