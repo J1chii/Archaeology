@@ -1,6 +1,4 @@
 function quote() {
-  document.getElementById("quoteText").innerHTML =
-    function quote() {
 
   const quotes = [
 
