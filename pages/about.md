@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://github.com/J1chii/Archaeology/blob/main/objects/PHarchipelagp.jpeg" %}
+{% include feature/jumbotron.html objectid="/Archaeology/objects/PHarchipelagp.jpeg" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
