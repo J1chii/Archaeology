@@ -15,3 +15,22 @@ body {
 .btn:hover, button:hover {
   background-color: #8c6f42;
 }
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600&family=Merriweather&display=swap');
+
+body,
+p,
+li,
+a,
+span {
+  font-family: 'Merriweather', serif !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+.navbar-brand,
+.card-title {
+  font-family: 'Cinzel', serif !important;
+}
