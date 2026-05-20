@@ -13,6 +13,6 @@ Exploring the history and heritage of the Philippines.
 
 <div class="music-player">
   <audio controls loop>
-    <source src="/Archaeology/assets/audio/history.mp3" type="audio/mpeg">
+    <source src="https://cdn.pixabay.com/download/audio/2022/03/15/audio_c8c8a73467.mp3" type="audio/mpeg">
   </audio>
 </div>
