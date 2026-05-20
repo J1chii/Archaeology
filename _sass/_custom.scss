@@ -63,12 +63,13 @@ h5,
   color: #8c6f42;
 }
 
-.music-player {
-  position: fixed;
-  bottom: 20px;
-  right: 20px;
-  z-index: 9999;
-  background: rgba(255,255,255,0.9);
-  padding: 10px;
-  border-radius: 12px;
+body {
+  background:
+    linear-gradient(rgba(245,241,234,0.85),
+    rgba(245,241,234,0.85)),
+    url('/Archaeology/assets/background.jpeg');
+
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
 }
