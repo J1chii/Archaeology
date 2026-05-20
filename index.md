@@ -3,6 +3,8 @@ layout: home-infographic
 title: Home
 ---
 
+Exploring Philippine history and heritage.
+
 <button id="quoteBtn" class="btn btn-warning">
   Historical Quote
 </button>
