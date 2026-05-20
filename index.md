@@ -6,6 +6,5 @@ title: Home
 <div class="music-player">
   <audio controls loop preload="auto">
     <source src="{{ '/assets/history.mp3' | relative_url }}" type="audio/mpeg">
-    Your browser does not support audio.
   </audio>
 </div>
