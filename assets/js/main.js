@@ -25,10 +25,10 @@ function quote() {
     '"Sa bawat paghuhukay, mas lumalalim ang pag-unawa sa ating lahi."',
 
     '"Ang kasaysayan ng Pilipinas ay yaman ng bawat Pilipino."',
-    
+
     '"Bakit mahilig sa hukay ang archaeologist? Kasi gusto nilang ibaon ang sarili nila sa trabaho."',
-  
-    '"Bakit hindi natatakot si Sir Adrian sa lumang artifacts? Mas nakakatakot daw yung walang submission"',
+
+    '"Bakit hindi natatakot si Professor Adrian sa lumang artifacts? Mas nakakatakot daw yung walang submission."',
 
     '"Hindi na kailangan ng excavation para sa author ng website. Visible na agad yung buto—museum ready."'
 
