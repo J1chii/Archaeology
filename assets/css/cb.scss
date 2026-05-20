@@ -1,4 +1,10 @@
 ---
+# base CSS for collectionbuilder
+# includes some theming elements
+# pulled in from "theme.yml" and "config-theme-colors.csv"
+---
+@charset "utf-8";
+
 @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600&family=Merriweather&display=swap');
 body {
     font-family: 'Merriweather', serif;
@@ -7,11 +13,6 @@ body {
 h1, h2, h3, h4, h5 {
     font-family: 'Cinzel', serif;
 }
-# base CSS for collectionbuilder
-# includes some theming elements
-# pulled in from "theme.yml" and "config-theme-colors.csv"
----
-@charset "utf-8";
 
 /* base variables pulled from theme.yml */
 $base-font-family: {{ site.data.theme.base-font-family | default: '""' }};
