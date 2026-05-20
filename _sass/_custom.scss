@@ -34,3 +34,31 @@ h5,
 .card-title {
   font-family: 'Cinzel', serif !important;
 }
+.history-timeline {
+  padding: 50px 20px;
+  background-color: #f4f1ea;
+}
+
+.history-timeline h2 {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.timeline {
+  max-width: 800px;
+  margin: auto;
+  border-left: 4px solid #b08d57;
+  padding-left: 30px;
+}
+
+.timeline-item {
+  background: white;
+  padding: 20px;
+  margin-bottom: 25px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.12);
+}
+
+.timeline-item h3 {
+  color: #8c6f42;
+}
