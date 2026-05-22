@@ -54,5 +54,6 @@ Come discover the roots of the Philippines — one story, artifact, or historica
       <h3>Independence</h3>
       <p>The Philippines became an independent republic.</p>
     </div>
+    This database was created by Jairah Cyrelle L. Mejia in partial fulfillment of the requirements for ART003: Arts Appreciation (2nd Semester, AY 2025–2026) under the guidance of Prof. Adrian Mendizabal.
   </div>
 </section>
