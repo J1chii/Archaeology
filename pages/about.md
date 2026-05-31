@@ -25,6 +25,7 @@ ArchaeologyPH hopes to be a resource for students, researchers, and history love
 The mission of ArchaeologyPH is to connect people to the stories of the past and to help raise awareness regarding the historical and cultural significance of the Philippines. ArchaeologyPH feels that an understanding of history will allow an individual to build a stronger appreciation for Filipino identity, tradition, and the development of the Filipino people.
 
 But what is Archaeology?
+
 Archaeology is the study of human history and culture through the examination of artifacts, ruins, and other physical remains. It helps us learn how people lived, worked, traveled, traded, and practiced their beliefs in the past, while preserving cultural heritage for future generations.
 
 So come discover the roots of the Philippines — one story, artifact, or historical treasure at a time.
